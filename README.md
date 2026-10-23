@@ -2,6 +2,9 @@
 
 Competitor Monitoring Alert Tool with a 3-tier crawler, content delta engine, pricing change tracker, and multi-channel alerting (Slack & Email).
 
+🔗 **Live Deployment:** [https://marketlens-2lya.onrender.com](https://marketlens-2lya.onrender.com)  
+> **Note on Cold Starts:** Hosted on Render Free Tier. If the instance is sleeping from inactivity, please allow ~30–50 seconds for the initial cold start spin-up.
+
 ---
 
 ## Architecture
